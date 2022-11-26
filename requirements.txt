@@ -1,0 +1,8 @@
+streamlit
+pandas_ta
+talib_binary
+stockstats
+vectorbt
+--upgrade --no-cache-dir git+https://github.com/StreamAlpha/tvdatafeed.git
+tvdatafeed
+-U vectorbt
