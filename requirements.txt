@@ -3,4 +3,4 @@ pandas_ta
 talib-binary
 stockstats
 vectorbt
-tvdatafeed
+git+https://github.com/StreamAlpha/tvdatafeed.git
