@@ -1,6 +1,6 @@
 streamlit
 pandas_ta
-talib_binary
+talib-binary
 stockstats
 vectorbt
 tvdatafeed
