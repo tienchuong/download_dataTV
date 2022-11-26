@@ -1,3 +1,4 @@
+--upgrade pip
 streamlit
 pandas_ta
 talib_binary
