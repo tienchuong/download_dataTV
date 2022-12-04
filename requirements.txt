@@ -3,4 +3,3 @@ pandas_ta
 TA-Lib
 stockstats
 vectorbt
---no-cache-dir git+https://github.com/StreamAlpha/tvdatafeed.git
