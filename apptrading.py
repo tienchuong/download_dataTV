@@ -20,7 +20,7 @@ import numpy
 from datetime import datetime
 import math
 import matplotlib.pyplot as plt
-from tvdatafeed.tvDatafeed import TvDatafeed, Interval
+from tvDatafeed import TvDatafeed, Interval
 import pandas_ta as pandas_ta
 import talib
 from stockstats import StockDataFrame
