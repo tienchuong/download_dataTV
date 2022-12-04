@@ -2,3 +2,4 @@ streamlit
 pandas_ta
 stockstats
 vectorbt
+tvDatafeed
