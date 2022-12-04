@@ -1,6 +1,6 @@
 streamlit
 pandas_ta
-talib-binary
+TA-Lib
 stockstats
 vectorbt
-git+https://github.com/StreamAlpha/tvdatafeed.git
+--no-cache-dir git+https://github.com/StreamAlpha/tvdatafeed.git
