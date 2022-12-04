@@ -22,7 +22,6 @@ import math
 import matplotlib.pyplot as plt
 from tvdatafeed.tvDatafeed.main import TvDatafeed, Interval
 import pandas_ta as pandas_ta
-import talib
 from stockstats import StockDataFrame
 import vectorbt as vbt
 
